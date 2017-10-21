@@ -7,7 +7,7 @@ Sample financial services app built on the Salesforce platform
 
 
 ## Resources
-Read [this repository](https://github.com/ccoenraets/dreaminvest) to learn more about the application.
+See [this repository](https://github.com/ccoenraets/dreaminvest) to learn more about the application.
 
 ## Description of Files and Directories
 
